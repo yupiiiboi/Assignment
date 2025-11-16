@@ -5,9 +5,10 @@
 """
 
 number_sum = 0
-for i in range(1,50):
+for i in range(1,51):
     number_sum+= i
     
 print(f"The sum of numbers from 1-50 is = {number_sum}")
+
 
 
